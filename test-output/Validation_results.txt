@@ -1,0 +1,24 @@
+Country: UAE
+Validation Result: Validation successfully
+Price: 10.00   Currency: AED   Package Type: week
+==============================================
+Country: Egypt
+Validation Result: Validation successfully
+Price: 10.00   Currency: Egyptian   Package Type: month
+==============================================
+Country: Jordan
+Validation Result: Validation successfully
+Price: 0.99   Currency: JOD   Package Type: week
+==============================================
+Country: UAE
+Validation Result: Validation successfully
+Price: 10.00   Currency: AED   Package Type: week
+==============================================
+Country: Egypt
+Validation Result: Validation successfully
+Price: 10.00   Currency: Egyptian   Package Type: month
+==============================================
+Country: Jordan
+Validation Result: Validation successfully
+Price: 0.99   Currency: JOD   Package Type: week
+==============================================
